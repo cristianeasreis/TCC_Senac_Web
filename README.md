@@ -2,7 +2,6 @@
 
 Tcc senac web
 
-"Foram usados FrameWork Bootstrap
-Jquery
-JavaScript"
+"Foram usados FrameWorks Bootstrap Jquery JavaScript"
+"Esse site esta diponivel no ferrariempilhadeira.com.br"
 
