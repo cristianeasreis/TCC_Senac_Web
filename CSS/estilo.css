@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding-top: 160px;
+    padding-bottom: 0px;
+}
+
+
+/* menu */
+
+.lgd {
+    text-align: end;
+}
+
+.Serviços {
+    font-size: 12px;
+    text-align: left;
+}
+
+.borda {
+    text-align: center;
+    border-color: #614939;
+    border-style: solid;
+    border-width: 5px;
+    padding: 5px;
+    color: red;
+}
+
+.foto {
+    text-align: center;
+    color: red;
+}
+
+.titulo {
+    text-align: center;
+    color: red;
+    padding: 15px;
+    margin: 20px;
+}
+
+div.margem2 {
+    background: #614939;
+    border-style: solid;
+    border-width: 2px;
+    padding: 2px;
+}
+
+
+/* botao orçamento */
+
+button {
+    background-color: white;
+    border-radius: 25px;
+    border-color: #614939;
+}
+
+.botao {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.leiamais {
+    color: red;
+}
+
+.quemsomos {
+    color: black;
+}
+
+h4 {
+    color: red;
+}
+
+
+/* rodape */
+
+footer {
+    background-color: #614939;
+    width: 100%;
+    color: white;
+    padding: 15px;
+    bottom: 0;
+}
+
+.main1 {
+    display: flex;
+    margin: 0 auto;
+}
+
+a img:hover {
+    color: red;
+}
+
+
+/* Imagens Centralizadas */
+
+img.displayer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bor {
+    border-color: #614939;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+}

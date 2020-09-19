@@ -1,0 +1,33 @@
+.contato {
+    bottom: 0;
+    width: 100%;
+}
+
+.textovermelho {
+    color: #fa050a;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.txtbranco {
+    color: white;
+}
+
+.fundo {
+    background-image: url('../Img/4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+@media only screen and (max-width: 479px) and (min-width: 0px) {
+    .fundo {
+        background-image: none;
+    }
+}
+
+@media only screen and (min-width: 1700px) {
+    .contato {
+        position: fixed;
+    }
+}
